@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Student One",
+    "email": "student1@example.com",
+    "grades": {
+      "math": "A",
+      "science": "B"
+    },
+    "attendance": "90%",
+    "parent": {
+      "name": "Parent One",
+      "email": "parent1@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Student Two",
+    "email": "student2@example.com",
+    "grades": {
+      "math": "B",
+      "science": "A"
+    },
+    "attendance": "95%",
+    "parent": {
+      "name": "Parent Two",
+      "email": "parent2@example.com"
+    }
+  }
+]
