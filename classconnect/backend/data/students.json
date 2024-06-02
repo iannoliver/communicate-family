@@ -1,30 +1,254 @@
 [
   {
     "id": 1,
-    "name": "Student One",
-    "email": "student1@example.com",
+    "name": "Alice Smith",
+    "email": "alice@example.com",
     "grades": {
       "math": "A",
       "science": "B"
     },
     "attendance": "90%",
     "parent": {
-      "name": "Parent One",
-      "email": "parent1@example.com"
+      "name": "John Smith",
+      "email": "john@example.com"
     }
   },
   {
     "id": 2,
-    "name": "Student Two",
-    "email": "student2@example.com",
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
     "grades": {
       "math": "B",
       "science": "A"
     },
+    "attendance": "85%",
+    "parent": {
+      "name": "Mary Johnson",
+      "email": "mary@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "grades": {
+      "math": "C",
+      "science": "B"
+    },
     "attendance": "95%",
     "parent": {
-      "name": "Parent Two",
-      "email": "parent2@example.com"
+      "name": "David Brown",
+      "email": "david@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Diana Wilson",
+    "email": "diana@example.com",
+    "grades": {
+      "math": "B",
+      "science": "A"
+    },
+    "attendance": "92%",
+    "parent": {
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Edward Lee",
+    "email": "edward@example.com",
+    "grades": {
+      "math": "A",
+      "science": "A"
+    },
+    "attendance": "98%",
+    "parent": {
+      "name": "Jessica Lee",
+      "email": "jessica@example.com"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Fiona Garcia",
+    "email": "fiona@example.com",
+    "grades": {
+      "math": "A",
+      "science": "B"
+    },
+    "attendance": "96%",
+    "parent": {
+      "name": "Carlos Garcia",
+      "email": "carlos@example.com"
+    }
+  },
+  {
+    "id": 7,
+    "name": "George Martinez",
+    "email": "george@example.com",
+    "grades": {
+      "math": "B",
+      "science": "B"
+    },
+    "attendance": "88%",
+    "parent": {
+      "name": "Maria Martinez",
+      "email": "maria@example.com"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hannah Davis",
+    "email": "hannah@example.com",
+    "grades": {
+      "math": "A",
+      "science": "A"
+    },
+    "attendance": "97%",
+    "parent": {
+      "name": "Christopher Davis",
+      "email": "christopher@example.com"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ian Rodriguez",
+    "email": "ian@example.com",
+    "grades": {
+      "math": "B",
+      "science": "B"
+    },
+    "attendance": "91%",
+    "parent": {
+      "name": "Patricia Rodriguez",
+      "email": "patricia@example.com"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Julia Hernandez",
+    "email": "julia@example.com",
+    "grades": {
+      "math": "A",
+      "science": "A"
+    },
+    "attendance": "99%",
+    "parent": {
+      "name": "Michael Hernandez",
+      "email": "michael@example.com"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Kevin Nguyen",
+    "email": "kevin@example.com",
+    "grades": {
+      "math": "B",
+      "science": "C"
+    },
+    "attendance": "89%",
+    "parent": {
+      "name": "Linda Nguyen",
+      "email": "linda@example.com"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Lily Kim",
+    "email": "lily@example.com",
+    "grades": {
+      "math": "A",
+      "science": "B"
+    },
+    "attendance": "94%",
+    "parent": {
+      "name": "James Kim",
+      "email": "james@example.com"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mike Patel",
+    "email": "mike@example.com",
+    "grades": {
+      "math": "C",
+      "science": "C"
+    },
+    "attendance": "83%",
+    "parent": {
+      "name": "Jennifer Patel",
+      "email": "jennifer@example.com"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Nora Brown",
+    "email": "nora@example.com",
+    "grades": {
+      "math": "B",
+      "science": "B"
+    },
+    "attendance": "92%",
+    "parent": {
+      "name": "Daniel Brown",
+      "email": "daniel@example.com"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Oscar Chen",
+    "email": "oscar@example.com",
+    "grades": {
+      "math": "A",
+      "science": "A"
+    },
+    "attendance": "98%",
+    "parent": {
+      "name": "Karen Chen",
+      "email": "karen@example.com"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Peter Liu",
+    "email": "peter@example.com",
+    "grades": {
+      "math": "B",
+      "science": "B"
+    },
+    "attendance": "86%",
+    "parent": {
+      "name": "Laura Liu",
+      "email": "laura@example.com"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Quinn Garcia",
+    "email": "quinn@example.com",
+    "grades": {
+      "math": "A",
+      "science": "A"
+    },
+    "attendance": "97%",
+    "parent": {
+      "name": "Robert Garcia",
+      "email": "robert@example.com"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Rachel Kim",
+    "email": "rachel@example.com",
+    "grades": {
+      "math": "B",
+      "science": "C"
+    },
+    "attendance": "90%",
+    "parent": {
+      "name": "Emily Kim",
+      "email": "emily@example.com"
     }
   }
 ]
